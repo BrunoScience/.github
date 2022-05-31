@@ -1,6 +1,6 @@
 # Podcasting 2.0
 
-We will start with what's wrong with Science ... but, more important, what can we do to fix it?
+The topic that we will start with is: *"What's wrong with Science ... but, more importantly, what can we do to fix it?"*
 
 One problem ... and what a fantastic problem for us to have!!! ... is that **it's impossible to keep up with the literature.** 
 
