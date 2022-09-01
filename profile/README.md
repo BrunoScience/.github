@@ -1,10 +1,14 @@
 ### Bruno.Science is about PARTICIPATIVE peer-led study
 
-Bruno.Science is set up as a small study group format ... it's quality of participation over quantity of participants. **Peer-led** study means that *PARTICIPATION is required* ... without PARTICIPATION by active participation, there's no reason to meet. 
+Remember ... ***[Bruno.Science is fundamentally about PARTICIPATIVE peer-led study](https://github.com/BrunoScience#brunoscience-is-about-participative-peer-led-study)*** ... we aim to fix Science by aiding the cause of scientific literacy ... specifically, our aim is to do that with ***participative*** peer-led study as a complement to everything else that Science currently is about.
 
-The study groups *really are* led by peers which means that what people get out of the group will depend upon entirely what they put in. *Passive watchers should just watch a vid on YouTube or maybe a doc on Netflix -- this study group is not for the passive.*
+Bruno.Science is set up in a small virtual study group format ... it's quality of participation over quantity of participants. 
 
-The study "courses" start off as low-key events AT FIRST ... but they peer-led by people with high expectations, so the study sessions are bound to be rather intense -- and that can mean ARGUMENTS over topics or interpretation which peers are passionate about ... so it's necessary for participants to celebrate and *bring* their own unique passion.
+**Peer-led** study means that *PARTICIPATION is required* ... without PARTICIPATION by active participation, there's no reason to meet. 
+
+The virtual study groups *really are* led by peers which means that what people get out of the group will depend upon entirely what they put in. *Passive watchers should just watch a vid on YouTube or maybe a doc on Netflix -- this study group is not for the passive OR for those who prefer traditional classrooms.*
+
+The study "courses" start off as low-key events AT FIRST ... but they peer-led by people with high expectations, so the study sessions are bound to become rather intense -- and that can mean ARGUMENTS over topics or interpretation which peers are passionate about ... so it's necessary for participants to celebrate and *bring* their own unique passion.
 
 Participating in the study course includes syllabus development and refinement, eg like barcamp unconference agenda  ... to emphasize, this is not run like class -- it's a peer-led study group where participation is expected, ie like eating at table for 5-7 at a restaurant ... although, it is also expected that participants are not yet masters, but are learning together.
 
